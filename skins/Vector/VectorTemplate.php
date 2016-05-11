@@ -235,8 +235,11 @@ class VectorTemplate extends BaseTemplate {
 					}
 					?>
 				</ul>
-			<?php}?>
- -->			<div style="clear:both"></div>
+			<?php
+			}
+			?>-->			
+
+			<div style="clear:both"></div>
 		</div>
 		<?php $this->printTrail(); ?>
 
